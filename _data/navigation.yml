@@ -6,8 +6,8 @@ main:
   # - title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -16,8 +16,5 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_updated_Jan25.pdf
+    url: /files/CV_updated_May2025.pdf
     # url: /cv/
-    
-  - title: "Climate Data"
-    url: /climate_repository/
