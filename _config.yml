@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-56G0BG2H73"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Lorenzo Testa"
-  avatar           : "circ_me2025.jpg"
+  name             : "Rebecca Farina"
+  avatar           : 
   bio              : "Ph.D. student in Statistics"
   location         : "Pittsburgh PA, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl"
-  email            : "lorenzo@stat.cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=9rZr7MgAAAAJ&hl=en"
+  email            : "rfarina@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "testalorenzo"
+  github           : "rebyfa98"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lorenzotesta1998"
-  orcid            : "https://orcid.org/0000-0003-2782-4846"
+  linkedin         : "rebecca-farina-8238b11b6"
+  orcid            : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
