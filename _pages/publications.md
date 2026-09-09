@@ -14,7 +14,7 @@ My research focuses on developing methods for reliable uncertainty quantificatio
 **[Doubly Robust and Efficient Calibration of Prediction Sets for Right-Censored Time-to-Event Outcomes](https://doi.org/10.1093/biomet/asag036)**
 Farina, R., Tchetgen Tchetgen, E.J., Kuchibhotla, A.K. (2026). *Biometrika*, Volume 113, Issue 3, asag036.
 
-**[Multi-Trajectory Pseudotime Inference via Permutation Factorizations](https://doi.org/10.64898/2026.05.27.728207v1)**
+**[Multi-Trajectory Pseudotime Inference via Permutation Factorizations](https://www.biorxiv.org/content/10.64898/2026.05.27.728207v1)**
 Farina, R., Agrawal, A., Wang, J., Gabitto, M., Mena, G. (2026). *biorxiv:10.64898/2026.05.27.728207v1*.
 
 **[Dynamic Prediction for Hospital Readmission in Patients with Chronic Heart Failure](https://arxiv.org/abs/2512.16463)**
